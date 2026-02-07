@@ -45,7 +45,7 @@ I have hands-on experience delivering production-ready applications in **Healthc
 
 ## 📫 How to Reach Me
 - 📧 Email: **shivani.s@jobstechmail.com**
-- 📍 Location: **Ohio, USA**
+- 📍 Location: **USA**
 - 💼 LinkedIn: *(add your LinkedIn URL here)*
 
 ---
